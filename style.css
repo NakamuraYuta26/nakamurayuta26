@@ -8,9 +8,8 @@ border:solid 3px lightgreen;
 display: block;
 }
 header, footer {
-  border: solid 3px lightgreen;
-  width: 960px;
-  margin: 0 auto;
+border: solid 3px lightgreen;
+width: 960px;
 }
 h1{
 
@@ -52,8 +51,6 @@ section{
 border:solid 3px brown;
 display: block;
 width:960px;
-margin-right:auto;
-margin-left:auto;
 }
 img{
 
