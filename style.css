@@ -21,6 +21,7 @@ ul{
 li{
 list-style:circle;
 list-style-position: inside;
+display:block;
 border:solid 3px brown;
 width:960px;
   margin-right:auto;
