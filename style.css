@@ -2,6 +2,9 @@ header{
 color:green;
 font-size:30px;
 border:solid 3px lightgreen;
+width:960px;
+margin-right:auto;
+margin-reft:auto;
 }
 footer{
 border:solid 3px lightgreen;
