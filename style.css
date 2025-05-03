@@ -2,9 +2,6 @@ header{
 color:green;
 font-size:30px;
 }
-footer{
-
-}
 header, footer {
 border: solid 3px lightgreen;
 width: 960px;
