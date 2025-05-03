@@ -2,17 +2,15 @@ header{
 color:green;
 font-size:30px;
 border:solid 3px lightgreen;
-display: block;
-width:960px;
-margin-right:auto;
-margin-reft:auto;
 }
 footer{
 border:solid 3px lightgreen;
 display: block;
-width:960px;
-margin-right:auto;
-margin-left:auto;
+}
+header, footer {
+  border: solid 3px lightgreen;
+  width: 960px;
+  margin: 0 auto;
 }
 h1{
 
