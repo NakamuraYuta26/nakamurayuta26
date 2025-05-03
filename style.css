@@ -8,6 +8,9 @@ margin-reft:auto;
 }
 footer{
 border:solid 3px lightgreen;
+width:960px;
+margin-right:auto;
+margin-reft:auto;
 }
 h1{
 
@@ -47,6 +50,9 @@ td{
 }
 section{
 border:solid 3px brown;
+width:960px;
+margin-right:auto;
+margin-reft:auto;
 }
 img{
 
