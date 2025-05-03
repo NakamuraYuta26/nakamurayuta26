@@ -9,44 +9,9 @@ width: 960px;
   margin-left:auto;
 text-align:center;
 }
-h1{
-
-}
-h2{
-
-}
-ul{
-  border: solid 3px brown;
-  display: block;
-  width: 960px;
-  margin-right: auto;
-  margin-left: auto;
-  text-align: center;
-}
 li{
 list-style:circle;
 list-style-position: inside;
-}
-dl{
-
-}
-dt{
-
-}
-dd{
-
-}
-table{
-
-}
-tr{
-
-}
-th{
-
-}
-td{
-
 }
 section{
 border:solid 3px brown;
@@ -54,7 +19,4 @@ width:960px;
   margin-right:auto;
   margin-left:auto;
 text-align:center;
-}
-img{
-
 }
