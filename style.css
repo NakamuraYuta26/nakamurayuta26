@@ -1,23 +1,20 @@
 header{
 color:green;
 font-size:30px;
-border:solid 3px lightgreen;
 }
 footer{
-border:solid 3px lightgreen;
-display: block;
+
 }
 header, footer {
 border: solid 3px lightgreen;
 width: 960px;
+  margin-right:auto;
+  margin-left:auto;
 }
 h1{
 
 }
 h2{
-
-}
-h3{
 
 }
 ul{
@@ -51,6 +48,8 @@ section{
 border:solid 3px brown;
 display: block;
 width:960px;
+  margin-right:auto;
+  margin-left:auto;
 }
 img{
 
