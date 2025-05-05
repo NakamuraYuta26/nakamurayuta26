@@ -6,7 +6,8 @@ padding-bottom:20px;
 }
 header, footer {
 border: solid 3px lightgreen;
-width: 400px;
+width: 90%;
+max-width: 400px;
   margin-right:auto;
   margin-left:auto;
 text-align:center;
