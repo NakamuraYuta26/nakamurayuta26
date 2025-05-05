@@ -6,7 +6,7 @@ padding-bottom:20px;
 }
 header, footer {
 border: solid 3px lightgreen;
-width: 440px;
+width: 400px;
   margin-right:auto;
   margin-left:auto;
 text-align:center;
@@ -17,7 +17,7 @@ list-style-position: inside;
 }
 section{
 border:solid 3px brown;
-width:440px;
+width:400px;
 height:520px;
   margin-right:auto;
   margin-left:auto;
