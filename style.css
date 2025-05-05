@@ -3,9 +3,6 @@ color:green;
 font-size:50px;
 padding-bottom:20px;
 }
-header{
-height:130px;
-}
 header, footer {
 border: solid 3px lightgreen;
 width: 90%;
