@@ -3,7 +3,8 @@ color:green;
 font-size:60px;
 }
 header, footer {
-border: solid 3px lightgreen;
+border: solid 3px green;
+background-color:lightgreen;
 width: 90%;
 max-width: 420px;
   margin-right:auto;
@@ -16,6 +17,7 @@ list-style-position: inside;
 }
 section{
 border:solid 3px brown;
+background-color:lightbrown;
 width: 90%;
 max-width: 420px;
   margin-right:auto;
