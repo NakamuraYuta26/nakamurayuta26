@@ -14,6 +14,8 @@ text-align:center;
 li{
 list-style:circle;
 list-style-position: inside;
+margin-right:auto;
+margin-left:auto;
 }
 section{
 border:solid 3px brown;
@@ -26,8 +28,7 @@ text-align:center;
 }
 table{
 border-collapse:collapse;
-margin-right:auto;
-margin-left:auto;
+c
 text-align:center;
 }
 td{
