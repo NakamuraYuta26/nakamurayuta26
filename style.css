@@ -11,12 +11,6 @@ max-width: 420px;
   margin-left:auto;
 text-align:center;
 }
-li{
-list-style:circle;
-list-style-position: inside;
-margin-right:auto;
-margin-left:auto;
-}
 section{
 border:solid 3px brown;
 background-color:beige;
@@ -33,5 +27,5 @@ margin-left:auto;
 text-align:center;
 }
 td{
-border:solid 1px
+border:solid 3px
 }
