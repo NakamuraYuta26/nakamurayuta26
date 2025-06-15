@@ -1,32 +1,44 @@
-h1{
-color:green;
-font-size:60px;
+h1 {
+  color: green;
+  font-size: 60px;
 }
+
 header, footer {
-border: solid 3px green;
-background-color:beige;
-width: 90%;
-max-width: 420px;
-  margin-right:auto;
-  margin-left:auto;
-text-align:center;
+  border: solid 3px green;
+  background-color: beige;
+  width: 90%;
+  max-width: 420px;
+  margin: 0 auto;
+  text-align: center;
 }
-section{
-border:solid 3px brown;
-background-color:beige;
-width: 90%;
-max-width: 420px;
-  margin-right:auto;
-  margin-left:auto;
-text-align:center;
+
+section {
+  border: solid 3px brown;
+  background-color: beige;
+  width: 90%;
+  max-width: 420px;
+  margin: 0 auto;
+  text-align: center;
 }
-table{
-border-collapse:collapse;
-margin-right:auto;
-margin-left:auto;
-text-align:center;
-margin-bottom: 40px;
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto 40px auto;
+  text-align: center;
 }
-td{
-border:solid 3px
+
+td {
+  border: solid 3px brown;
+  padding: 10px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  text-decoration: underline;
 }
