@@ -13,10 +13,8 @@ section{
   background-color: beige;
 }
 
-.my-table{
+.my-table td,
+.my-table th{
   background-color: beige;
-}
-
-td{
   border: solid 3px brown;
 }
