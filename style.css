@@ -19,4 +19,7 @@ section{
   border: solid 3px brown;
 }
 
-
+.page-box{
+  width:90%;
+  max-width:420px;
+}
