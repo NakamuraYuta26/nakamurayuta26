@@ -1,44 +1,22 @@
-h1 {
+h1{
   color: green;
   font-size: 60px;
 }
 
-header, footer {
+header, footer{
   border: solid 3px green;
   background-color: beige;
-  width: 90%;
-  max-width: 420px;
-  margin: 0 auto;
-  text-align: center;
 }
 
-section {
+section{
   border: solid 3px brown;
   background-color: beige;
-  width: 90%;
-  max-width: 420px;
-  margin: 0 auto;
-  text-align: center;
 }
 
-table {
-  border-collapse: collapse;
-  margin: 0 auto 40px auto;
-  text-align: center;
+.my-table{
+  background-color: beige;
 }
 
-td {
+td{
   border: solid 3px brown;
-  padding: 10px;
-}
-
-a {
-  color: black;
-  text-decoration: none;
-}
-a:visited {
-  color: black;
-}
-a:hover {
-  text-decoration: underline;
 }
