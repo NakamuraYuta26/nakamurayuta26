@@ -19,6 +19,19 @@ section{
   border: solid 3px brown;
 }
 
+.accordion-button{
+  background-color:#ffe0b2;
+}
+
+.accordion-button:not(.collapsed){
+  background-color:#ffcc80;
+  color:black;
+}
+
+.accordion-item{
+  border:2px solid #ff9800;
+}
+
 .page-box{
   width:90%;
   max-width:420px;
